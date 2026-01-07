@@ -4,6 +4,7 @@ This project analyzes hourly electricity consumption data to identify usage patt
 
 This project is particularly relevant for roles in energy analytics, data science, and sustainability-focused organizations.
 
+
 <h2>🎯 Objectives</h2>
 
 Analyze hourly electricity consumption data
@@ -15,6 +16,7 @@ Calculate key statistical metrics (mean, max, min)
 Visualize energy usage trends using charts
 
 Demonstrate real-world data handling using Excel input
+
 
 <h2>🛠️ Tech Stack</h2>
 
@@ -28,13 +30,6 @@ Matplotlib – Data visualization
 
 Excel (.xlsx) – Data source
 
-<h2>📂 Project Structure</h2>
-energy-consumption-analysis/
-│
-├── energy_analysis.py        # Main Python script
-├── energy_data.xlsx          # Sample energy consumption dataset
-├── README.md                 # Project documentation
-└── .venv/                    # Virtual environment (optional)
 
 <h2>📊 Dataset Description</h2>
 
@@ -58,6 +53,7 @@ pip install numpy pandas matplotlib openpyxl
 4️⃣ Run the Analysis
 python energy_analysis.py
 
+
 <h2>📈 Output & Visualizations</h2>
 
 The script generates:
@@ -75,6 +71,7 @@ Low-demand periods (late night)
 High-demand periods (morning and evening)
 
 Peak energy usage trends
+
 
 <h2>🔍 Key Insights</h2>
 
