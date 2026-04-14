@@ -37,7 +37,7 @@ The dataset contains hourly electricity consumption values.
 
 Column	Description
 Hour	Hour of the day (0–23)
-Energy_Consumption	Electricity usage in kWh
+Energy_Consumption	Electricity usage in kWh <br>
 ▶️ How to Run the Project
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/energy-consumption-analysis.git
